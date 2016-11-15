@@ -33,12 +33,14 @@
             // 
             // button1
             // 
+            this.button1.BackColor = System.Drawing.Color.Maroon;
+            this.button1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.button1.Location = new System.Drawing.Point(188, 64);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(439, 170);
             this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Text = "ХУЙ";
+            this.button1.UseVisualStyleBackColor = false;
             // 
             // Form1
             // 
